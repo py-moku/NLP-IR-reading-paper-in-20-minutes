@@ -1,15 +1,19 @@
 ---
 name: Paper matome template
 about: Andrew Ng フォーマットで完結にまとめる
-title: "[paper title][published year][conference name]"
+title: "[paper title]_[published year]_[conference name]"
 labels: ''
 assignees: ''
 
 ---
 
-# [paper title]
-- author: [name]
+# matome information
+- matome author: [name]
 - read date: [YYYYMMDD]
+
+# [paper title]
+## paper author
+[names]
 
 ## 1. What did authors try to accomplish?
 
@@ -26,3 +30,16 @@ TODO: not yet written
 ## 4. What other references do you want to follow?
 
 TODO: not yet written
+
+# その他資料
+## github
+- なし
+
+## official blog
+- なし
+
+## author's resource
+- なし
+
+## third person's explanation
+- なし
