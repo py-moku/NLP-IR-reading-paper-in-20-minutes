@@ -15,14 +15,15 @@ C. （できれば）残りを読む（※数式や分からないところは�
 ### 2. まとめる
 
 以下の4つの質問を埋める
-##### 1. What did authors try to accomplish?
-##### 2. What were the key elements of the approach?
-##### 3. What can you use yourself?
-##### 4. What other references do you want to follow?
+
+    1. What did authors try to accomplish?
+    2. What were the key elements of the approach?
+    3. What can you use yourself?
+    4. What other references do you want to follow?
 
 ### 3. issueを立てて投稿する
 - ラベルとして最低限以下を入れてください
-     - 第何回の会か
+     - 第何回の会でのまとめか(もしくは自由投稿か)
      - 分野(NLP, IR, Recommendation等)
      - 出版年
      - 学会名
