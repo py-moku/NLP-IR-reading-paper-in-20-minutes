@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 # [paper title]
+- author: [name]
+- read date: [YYYYMMDD]
 
 ## 1. What did authors try to accomplish?
 
