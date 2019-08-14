@@ -4,6 +4,25 @@
 
 ## 論文の読み方
 
+### 1. 読む
+
 1. 読む: title/abstract/figures (20minutes以内に読んで、下に進むか判断する)
 1. 読む: intro/conclusion
 1. （できれば）残りを読む（※数式や分からないところはスキップしてよい）
+
+### 2. まとめる
+
+以下の4つの質問を埋める(もちろん発表前でも可)
+###### 1. What did authors try to accomplish?
+###### 2. What were the key elements of the approach?
+###### 3. What can you use yourself?
+###### 4. What other references do you want to follow?
+- 質疑応答は埋まっていないところを中心にすると効率が良いかもしれません
+
+### 3. まとめ用リポジトリにてissueを立てて投稿する
+- まとめ用リポジトリ: https://github.com/py-moku/NLP-IR-reading-paper-in-20-minutes
+- ラベルとして最低限以下を入れてください
+     - 第何回の会か
+     - 分野(NLP, IR, Recommendation等)
+     - 出版年
+     - 学会名
