@@ -12,8 +12,11 @@ assignees: ''
 - read date: [YYYYMMDD]
 
 # [paper title]
-## paper author
+## paper information
+- authors
 [names]
+- URL
+[URL]
 
 ## 1. What did authors try to accomplish?
 
