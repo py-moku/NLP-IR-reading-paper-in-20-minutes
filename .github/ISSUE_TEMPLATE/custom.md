@@ -34,7 +34,7 @@ TODO: not yet written
 
 TODO: not yet written
 
-# その他資料
+# APPENDIX
 ## github
 - なし
 
@@ -50,3 +50,5 @@ TODO: not yet written
 ## メモ
 
 ## 感想
+
+## 分野全体での立ち位置
