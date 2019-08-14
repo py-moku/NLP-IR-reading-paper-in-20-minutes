@@ -1,4 +1,4 @@
-# NLP-IR-papers-matome
+# NLP-IR-reading-paper-in-20-minutes
 
 論文読む筋肉をつけるための会
 
