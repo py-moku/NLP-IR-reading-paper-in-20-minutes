@@ -12,12 +12,11 @@
 
 ### 2. まとめる
 
-以下の4つの質問を埋める(もちろん発表前でも可)
-###### 1. What did authors try to accomplish?
-###### 2. What were the key elements of the approach?
-###### 3. What can you use yourself?
-###### 4. What other references do you want to follow?
-- 質疑応答は埋まっていないところを中心にすると効率が良いかもしれません
+以下の4つの質問を埋める
+##### 1. What did authors try to accomplish?
+##### 2. What were the key elements of the approach?
+##### 3. What can you use yourself?
+##### 4. What other references do you want to follow?
 
 ### 3. まとめ用リポジトリにてissueを立てて投稿する
 - まとめ用リポジトリ: https://github.com/py-moku/NLP-IR-reading-paper-in-20-minutes
