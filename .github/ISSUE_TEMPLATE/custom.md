@@ -1,7 +1,7 @@
 ---
 name: Paper matome template
 about: Andrew Ng フォーマットで完結にまとめる
-title: "[paper title]_[published year]_[conference name]"
+title: "[paper title]([conference name][published year])"
 labels: ''
 assignees: ''
 
@@ -46,3 +46,7 @@ TODO: not yet written
 
 ## third person's explanation
 - なし
+
+## メモ
+
+## 感想
