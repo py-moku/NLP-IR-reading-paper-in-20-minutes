@@ -1,7 +1,7 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: "[paper title][publish year][conference name]"
+name: Paper matome template
+about: Andrew Ng フォーマットで完結にまとめる
+title: "[paper title][published year][conference name]"
 labels: ''
 assignees: ''
 
