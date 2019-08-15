@@ -27,5 +27,6 @@
      - 分野(NLP, IR, Recommendation等)
      - 出版年
      - 学会名
+     - まとめ作成者名(アカウント名等でOK)
 
 参考: [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://youtu.be/733m6qBH-jI)
