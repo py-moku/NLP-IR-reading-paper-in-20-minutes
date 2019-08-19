@@ -34,21 +34,21 @@ TODO: not yet written
 
 TODO: not yet written
 
-# APPENDIX
-## github
+## その他メモ
+### github
 - なし
 
-## official blog
+### official blog
 - なし
 
-## author's resource
+### author's resource
 - なし
 
-## third person's explanation
+### third person's explanation
 - なし
 
-## メモ
+### メモ
 
-## 感想
+### 感想
 
-## 分野全体での立ち位置
+### 分野全体での立ち位置
