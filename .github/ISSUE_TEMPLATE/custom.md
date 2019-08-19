@@ -1,4 +1,13 @@
 ---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+---
 name: Paper matome tsuchizawa template
 about: Andrew Ng フォーマットで完結にまとめる
 title: "[paper title]([conference name][published year])"
@@ -35,20 +44,3 @@ TODO: not yet written
 TODO: not yet written
 
 ## その他メモ
-## github
-- なし
-
-## official blog
-- なし
-
-## author's resource
-- なし
-
-## third person's explanation
-- なし
-
-## メモ
-
-## 感想
-
-## 分野全体での立ち位置
