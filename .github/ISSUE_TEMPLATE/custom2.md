@@ -1,5 +1,5 @@
 ---
-name: Paper matome template
+name: Paper matome tsuchizawa template
 about: Andrew Ng フォーマットで完結にまとめる
 title: "[paper title]([conference name][published year])"
 labels: ''
